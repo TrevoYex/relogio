@@ -1,3 +1,3 @@
 # ⏲ Relógio
 
-- link: <a href="https://trevoyex.github.io/relogio/" target="_blank">
+- link: <a href="https://trevoyex.github.io/relogio/" target="_blank"></a>
