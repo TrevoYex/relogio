@@ -1,3 +1,3 @@
 # ⏲ Relógio
 
-- link: https://trevoyex.github.io/relogio/
+- link: https://estevamnetof.github.io/relogio/
